@@ -1,0 +1,53 @@
+###################
+# Authors dataset #
+###################
+
+COLUMN NAME             USEFUL?
+
+ratings_count           2814136
+average_rating          Y
+text_reviews_count      Y
+work_ids                74732848
+book_ids                74732848
+works_count             Y
+id                      Y
+name                    Y
+gender                  Y
+image_url               N
+about                   N
+fans_count              Y
+
+
+
+#################
+# Books dataset #
+#################
+
+COLUMN NAME                    USEFUL?
+
+id                             Y
+title                          Y
+authors                        455800
+author_name                    N
+author_id                      79992
+work_id                        79992
+isbn                           N
+isbn13                         N
+asin                           N
+language                       Y
+average_rating                 Y
+rating_dist                    972520
+ratings_count                  79992
+text_reviews_count             79992
+publication_date               651619
+original_publication_date      637722
+format                         Y
+edition_information            N
+image_url                      N
+publisher                      N
+num_pages                      Y
+series_id                      584280
+series_name                    Y
+series_position                573670
+shelves                        N
+description                    N
