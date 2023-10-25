@@ -1,7 +1,7 @@
 # ADM-HW2
 
 This repository contains the submission of Group #13 of the second homework for the course "Algorithmic Methods of Data Mining", Academic year 2023–2024.
-To run the notebook and the shell scripts a `datasets` folder must be created on the root of the repository and this folder must contain every .json file used during the homework.
+To run the notebook and the shell scripts a `datasets/` folder must be created on the root of the repository and this folder must contain every .json file used during the homework.
 
 ## Contents
 
