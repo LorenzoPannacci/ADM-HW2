@@ -36,7 +36,7 @@ isbn13                         N
 asin                           N
 language                       Y
 average_rating                 Y
-rating_dist                    972520
+rating_dist                    Y
 ratings_count                  79992
 text_reviews_count             79992
 publication_date               651619
