@@ -30,8 +30,8 @@
 * RQ 6.2 - Elias - WIP
 * RQ 7.1 - Lorenzo - WIP
 * RQ 7.2
-* RQ 7.3
-* RQ 7.4
+* RQ 7.3 - Lorenzo - WIP
+* RQ 7.4 - Lorenzo - WIP
 * RQ 8.1
 * RQ 8.2
 * RQ 8.3
@@ -48,5 +48,6 @@
 * AQ 1 - Lorenzo - Completed
 * AQ 2 - Lorenzo - Completed
 * AQ 3 - Lorenzo - WIP
+
 This repository contains the submission of Group #13 of the second homework for the course "Algorithmic Methods of Data Mining", Academic year 2023–2024.
 To run the notebook and the shell scripts a `datasets/` folder must be created on the root of the repository and this folder must contain every .json file used during the homework.
