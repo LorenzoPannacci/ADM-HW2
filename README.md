@@ -8,7 +8,7 @@
 
 ## Exercises
 
-* RQ 1 - Gloria - WIP
+* RQ 1 - Gloria - Completed
 * RQ 2.1 - Gloria - Completed
 * RQ 2.2 - Lorenzo - Completed
 * RQ 2.3 - Lorenzo - Completed
