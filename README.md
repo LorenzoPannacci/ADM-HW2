@@ -33,10 +33,10 @@
 * RQ 7.3 - Lorenzo - Completed
 * RQ 7.4 - Lorenzo - Completed
 * RQ 8.1 - Lorenzo - Completed
-* RQ 8.2
-* RQ 8.3
-* RQ 8.4
-* RQ 8.5
+* RQ 8.2 - Gloria - reviewing
+* RQ 8.3 - Gloria - reviewing
+* RQ 8.4 - Gloria - reviewing
+* RQ 8.5 - Gloria - reviewing
 * BP 1.1 - Lorenzo - Completed
 * BP 1.2 - Lorenzo - WIP
 * BP 2.1 - Lorenzo - WIP
