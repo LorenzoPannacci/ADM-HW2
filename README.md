@@ -9,13 +9,17 @@
 ## Exercises
 
 * RQ 1 - Gloria - WIP
+<<<<<<< Updated upstream
 * RQ 2.1 - Gloria - Completed
+=======
+* RQ 2.1 - Gloria - WIP
+>>>>>>> Stashed changes
 * RQ 2.2 - Lorenzo - Completed
 * RQ 2.3 - Lorenzo - Completed
-* RQ 2.4 - Gloria - Completed
+* RQ 2.4 - Gloria - WIP
 * RQ 2.5 - Lorenzo - Completed
-* RQ 2.6 - Gloria - Completed
-* RQ 3.1 - Gloria - WIP
+* RQ 2.6 - Gloria - WIP
+* RQ 3.1
 * RQ 3.2
 * RQ 3.3
 * RQ 4.1 - Lorenzo - Completed
