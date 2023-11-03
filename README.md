@@ -19,9 +19,9 @@
 * RQ 3.2 - Lorenzo - Completed
 * RQ 3.3 - Lorenzo - WIP
 * RQ 4.1 - Lorenzo - Completed
-* RQ 4.2 - Darkhan - WIP
-* RQ 4.3 - Darkhan - WIP
-* RQ 4.4 - Darkhan - WIP
+* RQ 4.2 - Elias - WIP
+* RQ 4.3 - Elias - WIP
+* RQ 4.4 - Elias - WIP
 * RQ 5.1 - Elias - WIP
 * RQ 5.2 - Elias - WIP
 * RQ 5.3 - Elias - WIP
