@@ -8,13 +8,8 @@
 
 ## Exercises
 
-<<<<<<< Updated upstream
-* RQ 1 - Gloria - WIP
-* RQ 2.1 - Gloria - WIP
-=======
 * RQ 1   - Gloria  - WIP
 * RQ 2.1 - Gloria  - Completed
->>>>>>> Stashed changes
 * RQ 2.2 - Lorenzo - Completed
 * RQ 2.3 - Lorenzo - Completed
 * RQ 2.4 - Gloria  - WIP
@@ -24,17 +19,6 @@
 * RQ 3.2 - Lorenzo - Completed
 * RQ 3.3 - Lorenzo - WIP
 * RQ 4.1 - Lorenzo - Completed
-<<<<<<< Updated upstream
-* RQ 4.2 - Darkhan - WIP
-* RQ 4.3 - Darkhan - WIP
-* RQ 4.4 - Darkhan - WIP
-* RQ 5.1 - Elias - WIP
-* RQ 5.2 - Elias - WIP
-* RQ 5.3 - Elias - WIP
-* RQ 5.4 - Elias - WIP
-* RQ 6.1 - Elias - WIP
-* RQ 6.2 - Elias - WIP
-=======
 * RQ 4.2 - Elias   - WIP
 * RQ 4.3 - Elias   - WIP
 * RQ 4.4 - Elias   - WIP
@@ -44,23 +28,15 @@
 * RQ 5.4 - Elias   - WIP
 * RQ 6.1 - Elias   - WIP
 * RQ 6.2 - Elias   - WIP
->>>>>>> Stashed changes
 * RQ 7.1 - Lorenzo - Completed
 * RQ 7.2 - Lorenzo - Completed
 * RQ 7.3 - Lorenzo - Completed
 * RQ 7.4 - Lorenzo - Completed
 * RQ 8.1 - Lorenzo - Completed
-<<<<<<< Updated upstream
-* RQ 8.2 - Gloria - Checking
-* RQ 8.3 - Gloria - Checking
-* RQ 8.4 - Gloria - Checking
-* RQ 8.5 - Gloria - Checking
-=======
 * RQ 8.2 - Gloria  - WIP
 * RQ 8.3 - Gloria  - WIP
 * RQ 8.4 - Gloria  - WIP
 * RQ 8.5 - Gloria  - WIP
->>>>>>> Stashed changes
 * BP 1.1 - Lorenzo - Completed
 * BP 1.2 - Lorenzo - WIP
 * BP 2.1 - Lorenzo - Completed
