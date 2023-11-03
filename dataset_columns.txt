@@ -27,7 +27,7 @@ COLUMN NAME                    USEFUL?
 
 id                             Y
 title                          Y
-authors                        455800
+authors                        Y
 author_name                    N
 author_id                      79992
 work_id                        79992
@@ -39,7 +39,7 @@ average_rating                 Y
 rating_dist                    Y
 ratings_count                  79992
 text_reviews_count             79992
-publication_date               651619
+publication_date               N
 original_publication_date      637722
 format                         Y
 edition_information            N

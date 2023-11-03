@@ -12,12 +12,12 @@
 * RQ 2.1 - Gloria - Completed
 * RQ 2.2 - Lorenzo - Completed
 * RQ 2.3 - Lorenzo - Completed
-* RQ 2.4 - Gloria - Completed
+* RQ 2.4 - Gloria - WIP
 * RQ 2.5 - Lorenzo - Completed
-* RQ 2.6 - Gloria - Completed
-* RQ 3.1 - Gloria - WIP
-* RQ 3.2
-* RQ 3.3
+* RQ 2.6 - Gloria - WIP
+* RQ 3.1 - Lorenzo - Completed
+* RQ 3.2 - Lorenzo - Completed
+* RQ 3.3 - Lorenzo - WIP
 * RQ 4.1 - Lorenzo - Completed
 * RQ 4.2 - Darkhan - WIP
 * RQ 4.3 - Darkhan - WIP
@@ -29,7 +29,7 @@
 * RQ 6.1 - Elias - WIP
 * RQ 6.2 - Elias - WIP
 * RQ 7.1 - Lorenzo - Completed
-* RQ 7.2
+* RQ 7.2 - Lorenzo - WIP
 * RQ 7.3 - Lorenzo - Completed
 * RQ 7.4 - Lorenzo - Completed
 * RQ 8.1 - Lorenzo - Completed
