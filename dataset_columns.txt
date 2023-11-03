@@ -4,12 +4,12 @@
 
 COLUMN NAME             USEFUL?
 
-ratings_count           2814136
+ratings_count           Y
 average_rating          Y
 text_reviews_count      Y
-work_ids                74732848
-book_ids                74732848
-works_count             Y
+work_ids                N
+book_ids                Y
+works_count             N
 id                      Y
 name                    Y
 gender                  Y
@@ -28,16 +28,16 @@ COLUMN NAME                    USEFUL?
 id                             Y
 title                          Y
 authors                        Y
-author_name                    N
-author_id                      79992
-work_id                        79992
+author_name                    Y
+author_id                      Y
+work_id                        N
 isbn                           N
 isbn13                         N
 asin                           N
 language                       Y
 average_rating                 Y
 rating_dist                    Y
-ratings_count                  79992
+ratings_count                  Y
 text_reviews_count             79992
 publication_date               N
 original_publication_date      637722
