@@ -39,8 +39,8 @@ average_rating                 Y
 rating_dist                    Y
 ratings_count                  Y
 text_reviews_count             Y
-publication_date               ?
-original_publication_date      ?
+publication_date               Y
+original_publication_date      Y
 format                         Y
 edition_information            N
 image_url                      N

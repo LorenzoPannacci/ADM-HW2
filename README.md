@@ -8,22 +8,22 @@
 
 ## Exercises
 
-* RQ 1 - Gloria - Completed
+* RQ 1 - Gloria & Lorenzo - Completed
 * RQ 2.1 - Gloria - Completed
 * RQ 2.2 - Lorenzo - Completed
 * RQ 2.3 - Lorenzo - Completed
-* RQ 2.4 - Gloria - WIP
+* RQ 2.4 - Gloria & Lorenzo - Completed
 * RQ 2.5 - Lorenzo - Completed
-* RQ 2.6 - Gloria - WIP
+* RQ 2.6 - Gloria - Completed
 * RQ 3.1 - Lorenzo - Completed
 * RQ 3.2 - Lorenzo - Completed
-* RQ 3.3 - Lorenzo - WIP
-* RQ 4.1 - Lorenzo - Completed
+* RQ 3.3 - Lorenzo - Completed
+* RQ 4.1 - Elias - WIP
 * RQ 4.2 - Elias - WIP
 * RQ 4.3 - Elias - WIP
 * RQ 4.4 - Elias - WIP
-* RQ 5.1 - Elias - WIP
-* RQ 5.2 - Elias - WIP
+* RQ 5.1 - Elias - Completed
+* RQ 5.2 - Elias - Completed
 * RQ 5.3 - Elias - WIP
 * RQ 5.4 - Elias - WIP
 * RQ 6.1 - Elias - WIP
